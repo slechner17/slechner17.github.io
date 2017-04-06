@@ -1,0 +1,104 @@
+body {
+  font-size: 14px;
+  font-family: 'Avenir', sans-serif;
+  color: #222;
+  line-height: 1;
+}
+
+h1 {
+  font-family: 'Didot', serif;
+  font-size: 50px;
+  line-height: 20px;
+  padding-left: 20px;
+}
+
+h2, h3, h4, p {
+ padding-top: 0px;
+ margin: 0;
+}
+
+img {
+  margin-left: 20px;
+  border-color: grey;
+  border-style: solid;
+  border-width: .5px;
+}
+
+.date {
+  float:right;
+}
+
+#bullets{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+#contact p{
+ text-align: left;
+ padding-left: 20px;
+}
+
+#objective{
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+nav a{
+  text-align: left;
+  padding-left: 20px;
+}
+
+#ED{
+  padding-bottom: 20px;
+}
+
+#ED h3, #ED p{
+  text-align: left;
+  padding-left: 20px;
+}
+
+#Experience, #Honors, #AdditionalSkills {
+  background-color: #FFF4FF;
+  padding: 5px;
+}
+
+.main-content {
+ float: left;
+ width:  60%;
+ padding: 15px;
+ padding-left: 20px;
+ line-height: 1.5;
+ height:960px;
+ margin-top: 5px;
+ /*border-left-style: dashed;
+ border-color: #222;
+ border-width: thin;*/
+ }
+
+.sidebar-left {
+ float: left;
+ width: 30%;
+ padding: 10px;
+ margin: 20px;
+ background-color: #FFF4FF;
+ line-height: 1.5;
+ height:960px;
+}
+
+a:link {
+    color: grey;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: green;
+}
+Contact GitHub API Training Shop Blog About
