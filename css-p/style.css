@@ -1,0 +1,191 @@
+header {
+  margin: 0px;
+}
+
+h1 {
+  font-family: 'Lane - Narrow';
+  font-weight: lighter;
+  font-size: 35px;
+  text-transform: uppercase;
+  padding-left: 70px;
+  padding-top: 10px;
+  color:#8c94a2;
+  width: 100%;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+  list-style: none;
+  padding-right: 70px;
+  padding-top: 45px;
+  float: right;
+  font-family: 'Lane - Narrow', light;
+  font-weight: lighter;
+  text-transform: uppercase;
+  color:#8c94a2;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+body {
+  font-size: 13px;
+  font-family: 'open-sans', sans-serif;
+  color: #222;
+}
+
+ul#grid {
+  padding: 10px;
+  list-style: none;
+  margin: 20px auto 0;
+  width: 960px;
+  }
+
+#grid li {
+  float: left;
+  padding: 0;
+  margin: 0 5px 10px 5px;
+}
+
+#grid li a {
+  display: block;
+  padding: 10px; margin: 10;
+  width: 200px;
+  height: 200px;
+}
+
+#grid li img {
+  padding: 20px; margin: 10;
+  width: 200px;
+  height: 200px;
+}
+
+#grid img {
+  opacity: 0.5;
+  transition: opacity 0.5s ease-in;
+}
+
+#grid img:hover {
+  opacity: 1;
+  transition: opacity 0.5s ease-in;
+}
+
+a:link {
+  color: #8c94a2;
+}
+
+a:visited {
+  color: #8c94a2;
+}
+
+a:hover {
+  color: black;
+  font-weight: 200;
+}
+
+#resume img{
+  float: left;
+  height: 600px;
+  width: 500px;
+}
+
+#resume {
+  list-style: none;
+}
+
+#portrait {
+  list-style: none;
+  float: left;
+  padding-left: 50px;
+}
+
+#portrait img {
+  height: 40%;
+  width: 40%;
+}
+
+#gq {
+  list-style: none;
+}
+
+.gq {
+  float: right;
+  margin-right: 100px;
+  margin-top: 0px;
+  width: 275px;
+  display: block;
+  font-family: 'Lane - Narrow', light;
+}
+
+#sbsr img {
+  height: 60%;
+  width: 60%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#gqp img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#pic img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#studio img {
+  height: 40%;
+  width: 40%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#details img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#bodoni img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#infographic img {
+  height: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.me {
+  float: right;
+  margin-right: 50px;
+  margin-top: 0px;
+  margin-left: 600px;
+  width: 400px;
+  position: absolute;
+  display: block;
+  font-family: 'Lane - Narrow', light;
+}
+
+.phem {
+  float: right;
+  margin-right: 200px;
+  width: 275px;
+  display: block;
+  font-family: 'Lane - Narrow', light;
+}
